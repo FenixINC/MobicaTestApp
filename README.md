@@ -13,11 +13,14 @@
 | Android DI: Koin | [https://insert-koin.io/] |
 | Multithreading: Kotlin Coroutines | [https://github.com/Kotlin/kotlinx.coroutines] |
 | UI: Jetpack Compose | [https://github.com/Kotlin/kotlinx.coroutines] |
+| Navigation with Compose | [https://developer.android.com/jetpack/compose/navigation] |
 
 ## Roadmap
 Develop IOS version, Desktop (Windows, Mac, Linus) and Web
 - General: Kotlin Multiplatform
 - IOS: SwiftUI, Combine
 - Multiplatform UI: [Multiplatform Compose]
+- Navigation: []
 
 [Multiplatform Compose]: <https://www.jetbrains.com/lp/compose-mpp/>
+[Decompose]: <https://arkivanov.github.io/Decompose/>
