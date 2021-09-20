@@ -20,7 +20,7 @@ Develop IOS version, Desktop (Windows, Mac, Linus) and Web
 - General: Kotlin Multiplatform
 - IOS: SwiftUI, Combine
 - Multiplatform UI: [Multiplatform Compose]
-- Navigation: []
+- Navigation: [Decompose]
 
 [Multiplatform Compose]: <https://www.jetbrains.com/lp/compose-mpp/>
 [Decompose]: <https://arkivanov.github.io/Decompose/>
