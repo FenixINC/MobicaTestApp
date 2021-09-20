@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: io.ktor:ktor-http:commonMain:1.5.4" type="kotlin.common">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/.gradle/kotlin/sourceSetMetadata/shared.MobicaTestApp/commonMain/implementation/io.ktor-ktor-http/io.ktor-ktor-http-commonMain.klib!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.ktor/ktor-http/1.5.4/602a63271352997c44352d4d919a1c97368a8096/ktor-http-1.5.4-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

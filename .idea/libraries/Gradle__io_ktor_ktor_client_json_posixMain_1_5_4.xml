@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: io.ktor:ktor-client-json:posixMain:1.5.4" type="kotlin.native">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/.gradle/kotlin/sourceSetMetadata/shared.MobicaTestApp/iosMain/implementation/io.ktor-ktor-client-json/io.ktor-ktor-client-json-posixMain.klib!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.ktor/ktor-client-json/1.5.4/27023ad20cbed369f6b70344f55e27cb8864f954/ktor-client-json-1.5.4-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

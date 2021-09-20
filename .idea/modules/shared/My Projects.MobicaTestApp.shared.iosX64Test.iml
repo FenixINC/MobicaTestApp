@@ -1,0 +1,264 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module external.linked.project.id=":shared:iosX64Test" external.linked.project.path="$MODULE_DIR$/../../../shared" external.root.project.path="$MODULE_DIR$/../../.." external.system.id="GRADLE" external.system.module.group="MobicaTestApp" external.system.module.type="sourceSet" external.system.module.version="unspecified" type="JAVA_MODULE" version="4">
+  <component name="FacetManager">
+    <facet type="kotlin-language" name="Kotlin">
+      <configuration version="4" platform="Native (ios_x64) " allPlatforms="Native []/Native [ios_x64]" useProjectSettings="false" isTestModule="true" externalProjectId=":shared" isHmppProject="true" pureKotlinSourceFolders="$MODULE_DIR$/../../../shared/src/androidDebug/kotlin;/Users/lionwood/Desktop/Projects/My Projects/MobicaTestApp/shared/src/debug/kotlin;/Users/lionwood/Desktop/Projects/My Projects/MobicaTestApp/shared/src/debug/java;/Users/lionwood/Desktop/Projects/My Projects/MobicaTestApp/shared/src/androidDebugAndroidTest/kotlin;/Users/lionwood/Desktop/Projects/My Projects/MobicaTestApp/shared/src/androidDebugUnitTest/kotlin;/Users/lionwood/Desktop/Projects/My Projects/MobicaTestApp/shared/src/androidRelease/kotlin;/Users/lionwood/Desktop/Projects/My Projects/MobicaTestApp/shared/src/release/kotlin;/Users/lionwood/Desktop/Projects/My Projects/MobicaTestApp/shared/src/release/java;/Users/lionwood/Desktop/Projects/My Projects/MobicaTestApp/shared/src/androidReleaseUnitTest/kotlin;/Users/lionwood/Desktop/Projects/My Projects/MobicaTestApp/shared/src/iosMain/kotlin;/Users/lionwood/Desktop/Projects/My Projects/MobicaTestApp/shared/build/generated/sqldelight/code/MobicaDatabase/commonIosMain;/Users/lionwood/Desktop/Projects/My Projects/MobicaTestApp/shared/src/iosMain/kotlin;/Users/lionwood/Desktop/Projects/My Projects/MobicaTestApp/shared/build/generated/sqldelight/code/MobicaDatabase/commonIosMain;/Users/lionwood/Desktop/Projects/My Projects/MobicaTestApp/shared/src/iosArm64Main/kotlin;/Users/lionwood/Desktop/Projects/My Projects/MobicaTestApp/shared/src/iosArm64Main/kotlin;/Users/lionwood/Desktop/Projects/My Projects/MobicaTestApp/shared/src/iosX64Main/kotlin;/Users/lionwood/Desktop/Projects/My Projects/MobicaTestApp/shared/src/iosX64Main/kotlin">
+        <dependsOnModuleNames>
+          <dependsOn>:shared:commonTest</dependsOn>
+          <dependsOn>:shared:iosTest</dependsOn>
+        </dependsOnModuleNames>
+        <sourceSets>
+          <sourceSet>My Projects.MobicaTestApp.shared.commonTest</sourceSet>
+          <sourceSet>MobicaTestApp.shared.iosTest</sourceSet>
+          <sourceSet>My Projects.MobicaTestApp.shared.iosX64Main</sourceSet>
+          <sourceSet>MobicaTestApp.shared.iosMain</sourceSet>
+          <sourceSet>My Projects.MobicaTestApp.shared.commonMain</sourceSet>
+        </sourceSets>
+        <newMppModelJpsModuleKind>COMPILATION_AND_SOURCE_SET_HOLDER</newMppModelJpsModuleKind>
+        <externalSystemTestTasks>
+          <externalSystemTestTask>iosX64Test|:shared:iosX64Test|iosX64</externalSystemTestTask>
+        </externalSystemTestTasks>
+        <compilerSettings />
+        <compilerArguments>
+          <option name="languageVersion" value="1.5" />
+          <option name="apiVersion" value="1.5" />
+          <option name="pluginOptions">
+            <array />
+          </option>
+          <option name="pluginClasspaths">
+            <array>
+              <option value="$KOTLIN_BUNDLED$/lib/kotlinx-serialization-compiler-plugin.jar" />
+            </array>
+          </option>
+          <option name="multiPlatform" value="true" />
+        </compilerArguments>
+      </configuration>
+    </facet>
+    <facet type="android" name="Android">
+      <configuration>
+        <option name="SELECTED_BUILD_VARIANT" value="debug" />
+        <option name="ASSEMBLE_TASK_NAME" value="assembleDebug" />
+        <option name="COMPILE_JAVA_TASK_NAME" value="compileDebugSources" />
+        <afterSyncTasks>
+          <task>generateDebugSources</task>
+        </afterSyncTasks>
+        <option name="ALLOW_USER_CONFIGURATION" value="false" />
+        <option name="MANIFEST_FILE_RELATIVE_PATH" value="/src/androidMain/AndroidManifest.xml" />
+        <option name="RES_FOLDER_RELATIVE_PATH" value="/src/main/res" />
+        <option name="RES_FOLDERS_RELATIVE_PATH" value="file://$MODULE_DIR$/../../../shared/src/main/res;file://$MODULE_DIR$/../../../shared/src/androidMain/res;file://$MODULE_DIR$/../../../shared/src/debug/res;file://$MODULE_DIR$/../../../shared/src/androidDebug/res;file://$MODULE_DIR$/../../../shared/build/generated/res/rs/debug;file://$MODULE_DIR$/../../../shared/build/generated/res/resValues/debug" />
+        <option name="TEST_RES_FOLDERS_RELATIVE_PATH" value="file://$MODULE_DIR$/../../../shared/src/androidTest/res;file://$MODULE_DIR$/../../../shared/src/androidAndroidTest/res;file://$MODULE_DIR$/../../../shared/src/androidTestDebug/res;file://$MODULE_DIR$/../../../shared/src/androidAndroidTestDebug/res;file://$MODULE_DIR$/../../../shared/build/generated/res/rs/androidTest/debug;file://$MODULE_DIR$/../../../shared/build/generated/res/resValues/androidTest/debug" />
+        <option name="ASSETS_FOLDER_RELATIVE_PATH" value="/src/main/assets" />
+        <option name="PROJECT_TYPE" value="1" />
+      </configuration>
+    </facet>
+  </component>
+  <component name="NewModuleRootManager" LANGUAGE_LEVEL="JDK_11">
+    <output-test url="file://$MODULE_DIR$/../../../shared/build/classes/kotlin/iosX64/test/klib" />
+    <exclude-output />
+    <content url="file://$MODULE_DIR$/../../../shared/src/iosX64Test/kotlin" />
+    <content url="file://$MODULE_DIR$/../../../shared/src/iosX64Test/resources" />
+    <orderEntry type="jdk" jdkName="Android API 30 Platform" jdkType="Android SDK" />
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="library" scope="PROVIDED" name="Kotlin/Native 1.5.10 - stdlib" level="project" />
+    <orderEntry type="module" module-name="My Projects.MobicaTestApp.shared.commonMain" scope="TEST" />
+    <orderEntry type="module" module-name="My Projects.MobicaTestApp.shared.commonTest" scope="TEST" production-on-test="" />
+    <orderEntry type="module" module-name="MobicaTestApp.shared.iosMain" scope="TEST" />
+    <orderEntry type="module" module-name="MobicaTestApp.shared.iosTest" scope="TEST" production-on-test="" />
+    <orderEntry type="module" module-name="My Projects.MobicaTestApp.shared.iosX64Main" scope="TEST" />
+    <orderEntry type="library" scope="PROVIDED" name="Kotlin/Native 1.5.10 - ARKit [ios_x64]" level="project" />
+    <orderEntry type="library" scope="PROVIDED" name="Kotlin/Native 1.5.10 - AVFoundation [ios_x64]" level="project" />
+    <orderEntry type="library" scope="PROVIDED" name="Kotlin/Native 1.5.10 - AVKit [ios_x64]" level="project" />
+    <orderEntry type="library" scope="PROVIDED" name="Kotlin/Native 1.5.10 - Accelerate [ios_x64]" level="project" />
+    <orderEntry type="library" scope="PROVIDED" name="Kotlin/Native 1.5.10 - Accessibility [ios_x64]" level="project" />
+    <orderEntry type="library" scope="PROVIDED" name="Kotlin/Native 1.5.10 - Accounts [ios_x64]" level="project" />
+    <orderEntry type="library" scope="PROVIDED" name="Kotlin/Native 1.5.10 - AdSupport [ios_x64]" level="project" />
+    <orderEntry type="library" scope="PROVIDED" name="Kotlin/Native 1.5.10 - AddressBook [ios_x64]" level="project" />
+    <orderEntry type="library" scope="PROVIDED" name="Kotlin/Native 1.5.10 - AddressBookUI [ios_x64]" level="project" />
+    <orderEntry type="library" scope="PROVIDED" name="Kotlin/Native 1.5.10 - AppClip [ios_x64]" level="project" />
+    <orderEntry type="library" scope="PROVIDED" name="Kotlin/Native 1.5.10 - AppTrackingTransparency [ios_x64]" level="project" />
+    <orderEntry type="library" scope="PROVIDED" name="Kotlin/Native 1.5.10 - AssetsLibrary [ios_x64]" level="project" />
+    <orderEntry type="library" scope="PROVIDED" name="Kotlin/Native 1.5.10 - AudioToolbox [ios_x64]" level="project" />
+    <orderEntry type="library" scope="PROVIDED" name="Kotlin/Native 1.5.10 - AuthenticationServices [ios_x64]" level="project" />
+    <orderEntry type="library" scope="PROVIDED" name="Kotlin/Native 1.5.10 - AutomaticAssessmentConfiguration [ios_x64]" level="project" />
+    <orderEntry type="library" scope="PROVIDED" name="Kotlin/Native 1.5.10 - BackgroundTasks [ios_x64]" level="project" />
+    <orderEntry type="library" scope="PROVIDED" name="Kotlin/Native 1.5.10 - BusinessChat [ios_x64]" level="project" />
+    <orderEntry type="library" scope="PROVIDED" name="Kotlin/Native 1.5.10 - CFNetwork [ios_x64]" level="project" />
+    <orderEntry type="library" scope="PROVIDED" name="Kotlin/Native 1.5.10 - CallKit [ios_x64]" level="project" />
+    <orderEntry type="library" scope="PROVIDED" name="Kotlin/Native 1.5.10 - CarPlay [ios_x64]" level="project" />
+    <orderEntry type="library" scope="PROVIDED" name="Kotlin/Native 1.5.10 - ClassKit [ios_x64]" level="project" />
+    <orderEntry type="library" scope="PROVIDED" name="Kotlin/Native 1.5.10 - ClockKit [ios_x64]" level="project" />
+    <orderEntry type="library" scope="PROVIDED" name="Kotlin/Native 1.5.10 - CloudKit [ios_x64]" level="project" />
+    <orderEntry type="library" scope="PROVIDED" name="Kotlin/Native 1.5.10 - CommonCrypto [ios_x64]" level="project" />
+    <orderEntry type="library" scope="PROVIDED" name="Kotlin/Native 1.5.10 - Contacts [ios_x64]" level="project" />
+    <orderEntry type="library" scope="PROVIDED" name="Kotlin/Native 1.5.10 - ContactsUI [ios_x64]" level="project" />
+    <orderEntry type="library" scope="PROVIDED" name="Kotlin/Native 1.5.10 - CoreAudio [ios_x64]" level="project" />
+    <orderEntry type="library" scope="PROVIDED" name="Kotlin/Native 1.5.10 - CoreAudioKit [ios_x64]" level="project" />
+    <orderEntry type="library" scope="PROVIDED" name="Kotlin/Native 1.5.10 - CoreAudioTypes [ios_x64]" level="project" />
+    <orderEntry type="library" scope="PROVIDED" name="Kotlin/Native 1.5.10 - CoreBluetooth [ios_x64]" level="project" />
+    <orderEntry type="library" scope="PROVIDED" name="Kotlin/Native 1.5.10 - CoreData [ios_x64]" level="project" />
+    <orderEntry type="library" scope="PROVIDED" name="Kotlin/Native 1.5.10 - CoreFoundation [ios_x64]" level="project" />
+    <orderEntry type="library" scope="PROVIDED" name="Kotlin/Native 1.5.10 - CoreGraphics [ios_x64]" level="project" />
+    <orderEntry type="library" scope="PROVIDED" name="Kotlin/Native 1.5.10 - CoreHaptics [ios_x64]" level="project" />
+    <orderEntry type="library" scope="PROVIDED" name="Kotlin/Native 1.5.10 - CoreImage [ios_x64]" level="project" />
+    <orderEntry type="library" scope="PROVIDED" name="Kotlin/Native 1.5.10 - CoreLocation [ios_x64]" level="project" />
+    <orderEntry type="library" scope="PROVIDED" name="Kotlin/Native 1.5.10 - CoreMIDI [ios_x64]" level="project" />
+    <orderEntry type="library" scope="PROVIDED" name="Kotlin/Native 1.5.10 - CoreML [ios_x64]" level="project" />
+    <orderEntry type="library" scope="PROVIDED" name="Kotlin/Native 1.5.10 - CoreMedia [ios_x64]" level="project" />
+    <orderEntry type="library" scope="PROVIDED" name="Kotlin/Native 1.5.10 - CoreMotion [ios_x64]" level="project" />
+    <orderEntry type="library" scope="PROVIDED" name="Kotlin/Native 1.5.10 - CoreNFC [ios_x64]" level="project" />
+    <orderEntry type="library" scope="PROVIDED" name="Kotlin/Native 1.5.10 - CoreServices [ios_x64]" level="project" />
+    <orderEntry type="library" scope="PROVIDED" name="Kotlin/Native 1.5.10 - CoreSpotlight [ios_x64]" level="project" />
+    <orderEntry type="library" scope="PROVIDED" name="Kotlin/Native 1.5.10 - CoreTelephony [ios_x64]" level="project" />
+    <orderEntry type="library" scope="PROVIDED" name="Kotlin/Native 1.5.10 - CoreText [ios_x64]" level="project" />
+    <orderEntry type="library" scope="PROVIDED" name="Kotlin/Native 1.5.10 - CoreVideo [ios_x64]" level="project" />
+    <orderEntry type="library" scope="PROVIDED" name="Kotlin/Native 1.5.10 - CryptoTokenKit [ios_x64]" level="project" />
+    <orderEntry type="library" scope="PROVIDED" name="Kotlin/Native 1.5.10 - DeviceCheck [ios_x64]" level="project" />
+    <orderEntry type="library" scope="PROVIDED" name="Kotlin/Native 1.5.10 - EAGL [ios_x64]" level="project" />
+    <orderEntry type="library" scope="PROVIDED" name="Kotlin/Native 1.5.10 - EventKit [ios_x64]" level="project" />
+    <orderEntry type="library" scope="PROVIDED" name="Kotlin/Native 1.5.10 - EventKitUI [ios_x64]" level="project" />
+    <orderEntry type="library" scope="PROVIDED" name="Kotlin/Native 1.5.10 - ExposureNotification [ios_x64]" level="project" />
+    <orderEntry type="library" scope="PROVIDED" name="Kotlin/Native 1.5.10 - ExternalAccessory [ios_x64]" level="project" />
+    <orderEntry type="library" scope="PROVIDED" name="Kotlin/Native 1.5.10 - FileProvider [ios_x64]" level="project" />
+    <orderEntry type="library" scope="PROVIDED" name="Kotlin/Native 1.5.10 - FileProviderUI [ios_x64]" level="project" />
+    <orderEntry type="library" scope="PROVIDED" name="Kotlin/Native 1.5.10 - Foundation [ios_x64]" level="project" />
+    <orderEntry type="library" scope="PROVIDED" name="Kotlin/Native 1.5.10 - GLKit [ios_x64]" level="project" />
+    <orderEntry type="library" scope="PROVIDED" name="Kotlin/Native 1.5.10 - GSS [ios_x64]" level="project" />
+    <orderEntry type="library" scope="PROVIDED" name="Kotlin/Native 1.5.10 - GameController [ios_x64]" level="project" />
+    <orderEntry type="library" scope="PROVIDED" name="Kotlin/Native 1.5.10 - GameKit [ios_x64]" level="project" />
+    <orderEntry type="library" scope="PROVIDED" name="Kotlin/Native 1.5.10 - GameplayKit [ios_x64]" level="project" />
+    <orderEntry type="library" scope="PROVIDED" name="Kotlin/Native 1.5.10 - HealthKit [ios_x64]" level="project" />
+    <orderEntry type="library" scope="PROVIDED" name="Kotlin/Native 1.5.10 - HealthKitUI [ios_x64]" level="project" />
+    <orderEntry type="library" scope="PROVIDED" name="Kotlin/Native 1.5.10 - HomeKit [ios_x64]" level="project" />
+    <orderEntry type="library" scope="PROVIDED" name="Kotlin/Native 1.5.10 - IOSurface [ios_x64]" level="project" />
+    <orderEntry type="library" scope="PROVIDED" name="Kotlin/Native 1.5.10 - IdentityLookup [ios_x64]" level="project" />
+    <orderEntry type="library" scope="PROVIDED" name="Kotlin/Native 1.5.10 - IdentityLookupUI [ios_x64]" level="project" />
+    <orderEntry type="library" scope="PROVIDED" name="Kotlin/Native 1.5.10 - ImageCaptureCore [ios_x64]" level="project" />
+    <orderEntry type="library" scope="PROVIDED" name="Kotlin/Native 1.5.10 - ImageIO [ios_x64]" level="project" />
+    <orderEntry type="library" scope="PROVIDED" name="Kotlin/Native 1.5.10 - Intents [ios_x64]" level="project" />
+    <orderEntry type="library" scope="PROVIDED" name="Kotlin/Native 1.5.10 - IntentsUI [ios_x64]" level="project" />
+    <orderEntry type="library" scope="PROVIDED" name="Kotlin/Native 1.5.10 - JavaScriptCore [ios_x64]" level="project" />
+    <orderEntry type="library" scope="PROVIDED" name="Kotlin/Native 1.5.10 - LinkPresentation [ios_x64]" level="project" />
+    <orderEntry type="library" scope="PROVIDED" name="Kotlin/Native 1.5.10 - LocalAuthentication [ios_x64]" level="project" />
+    <orderEntry type="library" scope="PROVIDED" name="Kotlin/Native 1.5.10 - MLCompute [ios_x64]" level="project" />
+    <orderEntry type="library" scope="PROVIDED" name="Kotlin/Native 1.5.10 - MapKit [ios_x64]" level="project" />
+    <orderEntry type="library" scope="PROVIDED" name="Kotlin/Native 1.5.10 - MediaAccessibility [ios_x64]" level="project" />
+    <orderEntry type="library" scope="PROVIDED" name="Kotlin/Native 1.5.10 - MediaPlayer [ios_x64]" level="project" />
+    <orderEntry type="library" scope="PROVIDED" name="Kotlin/Native 1.5.10 - MediaSetup [ios_x64]" level="project" />
+    <orderEntry type="library" scope="PROVIDED" name="Kotlin/Native 1.5.10 - MediaToolbox [ios_x64]" level="project" />
+    <orderEntry type="library" scope="PROVIDED" name="Kotlin/Native 1.5.10 - MessageUI [ios_x64]" level="project" />
+    <orderEntry type="library" scope="PROVIDED" name="Kotlin/Native 1.5.10 - Messages [ios_x64]" level="project" />
+    <orderEntry type="library" scope="PROVIDED" name="Kotlin/Native 1.5.10 - Metal [ios_x64]" level="project" />
+    <orderEntry type="library" scope="PROVIDED" name="Kotlin/Native 1.5.10 - MetalKit [ios_x64]" level="project" />
+    <orderEntry type="library" scope="PROVIDED" name="Kotlin/Native 1.5.10 - MetalPerformanceShaders [ios_x64]" level="project" />
+    <orderEntry type="library" scope="PROVIDED" name="Kotlin/Native 1.5.10 - MetalPerformanceShadersGraph [ios_x64]" level="project" />
+    <orderEntry type="library" scope="PROVIDED" name="Kotlin/Native 1.5.10 - MetricKit [ios_x64]" level="project" />
+    <orderEntry type="library" scope="PROVIDED" name="Kotlin/Native 1.5.10 - MobileCoreServices [ios_x64]" level="project" />
+    <orderEntry type="library" scope="PROVIDED" name="Kotlin/Native 1.5.10 - ModelIO [ios_x64]" level="project" />
+    <orderEntry type="library" scope="PROVIDED" name="Kotlin/Native 1.5.10 - MultipeerConnectivity [ios_x64]" level="project" />
+    <orderEntry type="library" scope="PROVIDED" name="Kotlin/Native 1.5.10 - NaturalLanguage [ios_x64]" level="project" />
+    <orderEntry type="library" scope="PROVIDED" name="Kotlin/Native 1.5.10 - NearbyInteraction [ios_x64]" level="project" />
+    <orderEntry type="library" scope="PROVIDED" name="Kotlin/Native 1.5.10 - Network [ios_x64]" level="project" />
+    <orderEntry type="library" scope="PROVIDED" name="Kotlin/Native 1.5.10 - NetworkExtension [ios_x64]" level="project" />
+    <orderEntry type="library" scope="PROVIDED" name="Kotlin/Native 1.5.10 - NewsstandKit [ios_x64]" level="project" />
+    <orderEntry type="library" scope="PROVIDED" name="Kotlin/Native 1.5.10 - NotificationCenter [ios_x64]" level="project" />
+    <orderEntry type="library" scope="PROVIDED" name="Kotlin/Native 1.5.10 - OpenAL [ios_x64]" level="project" />
+    <orderEntry type="library" scope="PROVIDED" name="Kotlin/Native 1.5.10 - OpenGLES [ios_x64]" level="project" />
+    <orderEntry type="library" scope="PROVIDED" name="Kotlin/Native 1.5.10 - OpenGLES2 [ios_x64]" level="project" />
+    <orderEntry type="library" scope="PROVIDED" name="Kotlin/Native 1.5.10 - OpenGLES3 [ios_x64]" level="project" />
+    <orderEntry type="library" scope="PROVIDED" name="Kotlin/Native 1.5.10 - OpenGLESCommon [ios_x64]" level="project" />
+    <orderEntry type="library" scope="PROVIDED" name="Kotlin/Native 1.5.10 - PDFKit [ios_x64]" level="project" />
+    <orderEntry type="library" scope="PROVIDED" name="Kotlin/Native 1.5.10 - PassKit [ios_x64]" level="project" />
+    <orderEntry type="library" scope="PROVIDED" name="Kotlin/Native 1.5.10 - PencilKit [ios_x64]" level="project" />
+    <orderEntry type="library" scope="PROVIDED" name="Kotlin/Native 1.5.10 - Photos [ios_x64]" level="project" />
+    <orderEntry type="library" scope="PROVIDED" name="Kotlin/Native 1.5.10 - PhotosUI [ios_x64]" level="project" />
+    <orderEntry type="library" scope="PROVIDED" name="Kotlin/Native 1.5.10 - PushKit [ios_x64]" level="project" />
+    <orderEntry type="library" scope="PROVIDED" name="Kotlin/Native 1.5.10 - QuartzCore [ios_x64]" level="project" />
+    <orderEntry type="library" scope="PROVIDED" name="Kotlin/Native 1.5.10 - QuickLook [ios_x64]" level="project" />
+    <orderEntry type="library" scope="PROVIDED" name="Kotlin/Native 1.5.10 - QuickLookThumbnailing [ios_x64]" level="project" />
+    <orderEntry type="library" scope="PROVIDED" name="Kotlin/Native 1.5.10 - ReplayKit [ios_x64]" level="project" />
+    <orderEntry type="library" scope="PROVIDED" name="Kotlin/Native 1.5.10 - SafariServices [ios_x64]" level="project" />
+    <orderEntry type="library" scope="PROVIDED" name="Kotlin/Native 1.5.10 - SceneKit [ios_x64]" level="project" />
+    <orderEntry type="library" scope="PROVIDED" name="Kotlin/Native 1.5.10 - ScreenTime [ios_x64]" level="project" />
+    <orderEntry type="library" scope="PROVIDED" name="Kotlin/Native 1.5.10 - Security [ios_x64]" level="project" />
+    <orderEntry type="library" scope="PROVIDED" name="Kotlin/Native 1.5.10 - SensorKit [ios_x64]" level="project" />
+    <orderEntry type="library" scope="PROVIDED" name="Kotlin/Native 1.5.10 - Social [ios_x64]" level="project" />
+    <orderEntry type="library" scope="PROVIDED" name="Kotlin/Native 1.5.10 - SoundAnalysis [ios_x64]" level="project" />
+    <orderEntry type="library" scope="PROVIDED" name="Kotlin/Native 1.5.10 - Speech [ios_x64]" level="project" />
+    <orderEntry type="library" scope="PROVIDED" name="Kotlin/Native 1.5.10 - SpriteKit [ios_x64]" level="project" />
+    <orderEntry type="library" scope="PROVIDED" name="Kotlin/Native 1.5.10 - StoreKit [ios_x64]" level="project" />
+    <orderEntry type="library" scope="PROVIDED" name="Kotlin/Native 1.5.10 - SystemConfiguration [ios_x64]" level="project" />
+    <orderEntry type="library" scope="PROVIDED" name="Kotlin/Native 1.5.10 - Twitter [ios_x64]" level="project" />
+    <orderEntry type="library" scope="PROVIDED" name="Kotlin/Native 1.5.10 - UIKit [ios_x64]" level="project" />
+    <orderEntry type="library" scope="PROVIDED" name="Kotlin/Native 1.5.10 - UniformTypeIdentifiers [ios_x64]" level="project" />
+    <orderEntry type="library" scope="PROVIDED" name="Kotlin/Native 1.5.10 - UserNotifications [ios_x64]" level="project" />
+    <orderEntry type="library" scope="PROVIDED" name="Kotlin/Native 1.5.10 - UserNotificationsUI [ios_x64]" level="project" />
+    <orderEntry type="library" scope="PROVIDED" name="Kotlin/Native 1.5.10 - VideoSubscriberAccount [ios_x64]" level="project" />
+    <orderEntry type="library" scope="PROVIDED" name="Kotlin/Native 1.5.10 - VideoToolbox [ios_x64]" level="project" />
+    <orderEntry type="library" scope="PROVIDED" name="Kotlin/Native 1.5.10 - Vision [ios_x64]" level="project" />
+    <orderEntry type="library" scope="PROVIDED" name="Kotlin/Native 1.5.10 - VisionKit [ios_x64]" level="project" />
+    <orderEntry type="library" scope="PROVIDED" name="Kotlin/Native 1.5.10 - WatchConnectivity [ios_x64]" level="project" />
+    <orderEntry type="library" scope="PROVIDED" name="Kotlin/Native 1.5.10 - WebKit [ios_x64]" level="project" />
+    <orderEntry type="library" scope="PROVIDED" name="Kotlin/Native 1.5.10 - builtin [ios_x64]" level="project" />
+    <orderEntry type="library" scope="PROVIDED" name="Kotlin/Native 1.5.10 - darwin [ios_x64]" level="project" />
+    <orderEntry type="library" scope="PROVIDED" name="Kotlin/Native 1.5.10 - iAd [ios_x64]" level="project" />
+    <orderEntry type="library" scope="PROVIDED" name="Kotlin/Native 1.5.10 - iconv [ios_x64]" level="project" />
+    <orderEntry type="library" scope="PROVIDED" name="Kotlin/Native 1.5.10 - objc [ios_x64]" level="project" />
+    <orderEntry type="library" scope="PROVIDED" name="Kotlin/Native 1.5.10 - posix [ios_x64]" level="project" />
+    <orderEntry type="library" scope="PROVIDED" name="Kotlin/Native 1.5.10 - zlib [ios_x64]" level="project" />
+    <orderEntry type="library" scope="TEST" name="Gradle: com.squareup.sqldelight:runtime:1.5.0" level="project" />
+    <orderEntry type="module-library" scope="TEST">
+      <library>
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/../../../shared/build/classes/kotlin/ios/main/klib/shared.klib!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library" scope="TEST">
+      <library>
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/../../../shared/build/classes/kotlin/iosX64/main/klib/shared.klib!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="library" scope="TEST" name="Gradle: org.jetbrains.kotlin:kotlin-test-common:1.5.10" level="project" />
+    <orderEntry type="library" scope="TEST" name="Gradle: org.jetbrains.kotlin:kotlin-test-annotations-common:1.5.10" level="project" />
+    <orderEntry type="library" scope="TEST" name="Gradle: org.jetbrains.kotlin:kotlin-stdlib-common:1.5.30" level="project" />
+    <orderEntry type="library" scope="TEST" name="Gradle: com.squareup.sqldelight:coroutines-extensions-iosx64:klib:1.5.0" level="project" />
+    <orderEntry type="library" scope="TEST" name="Gradle: com.squareup.sqldelight:native-driver-iosx64:klib:1.5.0" level="project" />
+    <orderEntry type="library" scope="TEST" name="Gradle: com.squareup.sqldelight:runtime-iosx64:klib:1.5.0" level="project" />
+    <orderEntry type="library" scope="TEST" name="Gradle: io.ktor:ktor-client-serialization-iosx64:klib:1.5.4" level="project" />
+    <orderEntry type="library" scope="TEST" name="Gradle: io.ktor:ktor-client-json-iosx64:klib:1.5.4" level="project" />
+    <orderEntry type="library" scope="TEST" name="Gradle: io.ktor:ktor-client-logging-iosx64:klib:1.5.4" level="project" />
+    <orderEntry type="library" scope="TEST" name="Gradle: io.ktor:ktor-client-ios-iosx64:klib:1.5.4" level="project" />
+    <orderEntry type="library" scope="TEST" name="Gradle: io.ktor:ktor-client-core-iosx64:klib:1.5.4" level="project" />
+    <orderEntry type="library" scope="TEST" name="Gradle: org.jetbrains.kotlinx:kotlinx-coroutines-core-iosx64:klib:1.5.0-native-mt" level="project" />
+    <orderEntry type="library" scope="TEST" name="Gradle: org.kodein.di:kodein-di-iosx64:klib:7.5.0" level="project" />
+    <orderEntry type="library" scope="TEST" name="Gradle: com.russhwolf:multiplatform-settings-iosx64:klib:0.8" level="project" />
+    <orderEntry type="library" scope="TEST" name="Gradle: org.jetbrains.kotlinx:kotlinx-serialization-json-iosx64:klib:1.1.0" level="project" />
+    <orderEntry type="library" scope="TEST" name="Gradle: co.touchlab:stately-common-iosx64:klib:1.1.1" level="project" />
+    <orderEntry type="library" scope="TEST" name="Gradle: co.touchlab:sqliter-driver-iosx64:klib:1.0.1" level="project" />
+    <orderEntry type="library" scope="TEST" name="Gradle: co.touchlab:sqliter-driver-iosx64:klib:cinterop-sqlite3:1.0.1" level="project" />
+    <orderEntry type="library" scope="TEST" name="Gradle: co.touchlab:stately-collections-iosx64:klib:1.1.1" level="project" />
+    <orderEntry type="library" scope="TEST" name="Gradle: org.jetbrains.kotlinx:atomicfu-iosx64:klib:0.16.1" level="project" />
+    <orderEntry type="library" scope="TEST" name="Gradle: org.jetbrains.kotlinx:atomicfu-iosx64:klib:cinterop-interop:0.16.1" level="project" />
+    <orderEntry type="library" scope="TEST" name="Gradle: io.ktor:ktor-http-cio-iosx64:klib:1.5.4" level="project" />
+    <orderEntry type="library" scope="TEST" name="Gradle: io.ktor:ktor-http-iosx64:klib:1.5.4" level="project" />
+    <orderEntry type="library" scope="TEST" name="Gradle: org.kodein.type:kodein-type-iosx64:klib:1.6.0" level="project" />
+    <orderEntry type="library" scope="TEST" name="Gradle: org.jetbrains.kotlinx:kotlinx-serialization-core-iosx64:klib:1.1.0" level="project" />
+    <orderEntry type="library" scope="TEST" name="Gradle: co.touchlab:stately-concurrency-iosx64:klib:1.1.1" level="project" />
+    <orderEntry type="library" scope="TEST" name="Gradle: io.ktor:ktor-utils-iosx64:klib:1.5.4" level="project" />
+    <orderEntry type="library" scope="TEST" name="Gradle: io.ktor:ktor-utils-iosx64:klib:cinterop-utils:1.5.4" level="project" />
+    <orderEntry type="library" scope="TEST" name="Gradle: io.ktor:ktor-io-iosx64:klib:1.5.4" level="project" />
+    <orderEntry type="library" scope="TEST" name="Gradle: io.ktor:ktor-io-iosx64:klib:cinterop-bits:1.5.4" level="project" />
+    <orderEntry type="library" scope="TEST" name="Gradle: io.ktor:ktor-io-iosx64:klib:cinterop-sockets:1.5.4" level="project" />
+    <orderEntry type="library" scope="TEST" name="Gradle: com.squareup.sqldelight:coroutines-extensions:1.5.0" level="project" />
+    <orderEntry type="library" scope="TEST" name="Gradle: com.squareup.sqldelight:native-driver:1.5.0" level="project" />
+    <orderEntry type="library" scope="TEST" name="Gradle: org.kodein.di:kodein-di:7.5.0" level="project" />
+    <orderEntry type="library" scope="TEST" name="Gradle: org.kodein.type:kodein-type:1.6.0" level="project" />
+  </component>
+  <component name="TestModuleProperties" production-module="MobicaTestApp.shared.iosX64Main" />
+</module>

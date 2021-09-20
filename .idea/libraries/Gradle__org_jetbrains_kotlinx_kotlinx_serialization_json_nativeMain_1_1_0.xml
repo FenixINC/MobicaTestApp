@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: org.jetbrains.kotlinx:kotlinx-serialization-json:nativeMain:1.1.0">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/.gradle/kotlin/sourceSetMetadata/shared.MobicaTestApp/iosMain/implementation/org.jetbrains.kotlinx-kotlinx-serialization-json/org.jetbrains.kotlinx-kotlinx-serialization-json-nativeMain.klib!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlinx/kotlinx-serialization-json/1.1.0/7aeeabd311739cdb95930ef7e065767d5a84bf42/kotlinx-serialization-json-1.1.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

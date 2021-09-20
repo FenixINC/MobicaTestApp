@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: io.ktor:ktor-client-serialization-iosx64:klib:1.5.4" type="kotlin.native">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.ktor/ktor-client-serialization-iosx64/1.5.4/b90834acb054a287ed96a21c39ded96e5fa57d98/ktor-client-serialization.klib!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.ktor/ktor-client-serialization-iosx64/1.5.4/db5c0c75c5fc26a98c617c87c8e9e990dd53c6c1/ktor-client-serialization-iosx64-1.5.4-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

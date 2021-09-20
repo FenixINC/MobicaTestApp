@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/MobicaTestApp.iml" filepath="$PROJECT_DIR$/.idea/modules/MobicaTestApp.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/androidApp/MobicaTestApp.androidApp.iml" filepath="$PROJECT_DIR$/.idea/modules/androidApp/MobicaTestApp.androidApp.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/shared/MobicaTestApp.shared.iml" filepath="$PROJECT_DIR$/.idea/modules/shared/MobicaTestApp.shared.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/shared/MobicaTestApp.shared.androidAndroidTestRelease.iml" filepath="$PROJECT_DIR$/.idea/modules/shared/MobicaTestApp.shared.androidAndroidTestRelease.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/shared/MobicaTestApp.shared.commonMain.iml" filepath="$PROJECT_DIR$/.idea/modules/shared/MobicaTestApp.shared.commonMain.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/shared/MobicaTestApp.shared.commonTest.iml" filepath="$PROJECT_DIR$/.idea/modules/shared/MobicaTestApp.shared.commonTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/shared/MobicaTestApp.shared.iosArm64Main.iml" filepath="$PROJECT_DIR$/.idea/modules/shared/MobicaTestApp.shared.iosArm64Main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/shared/MobicaTestApp.shared.iosArm64Test.iml" filepath="$PROJECT_DIR$/.idea/modules/shared/MobicaTestApp.shared.iosArm64Test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/shared/MobicaTestApp.shared.iosMain.iml" filepath="$PROJECT_DIR$/.idea/modules/shared/MobicaTestApp.shared.iosMain.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/shared/MobicaTestApp.shared.iosTest.iml" filepath="$PROJECT_DIR$/.idea/modules/shared/MobicaTestApp.shared.iosTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/shared/MobicaTestApp.shared.iosX64Main.iml" filepath="$PROJECT_DIR$/.idea/modules/shared/MobicaTestApp.shared.iosX64Main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/shared/MobicaTestApp.shared.iosX64Test.iml" filepath="$PROJECT_DIR$/.idea/modules/shared/MobicaTestApp.shared.iosX64Test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/shared/My Projects.MobicaTestApp.shared.androidAndroidTestRelease.iml" filepath="$PROJECT_DIR$/.idea/modules/shared/My Projects.MobicaTestApp.shared.androidAndroidTestRelease.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/shared/My Projects.MobicaTestApp.shared.commonMain.iml" filepath="$PROJECT_DIR$/.idea/modules/shared/My Projects.MobicaTestApp.shared.commonMain.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/shared/My Projects.MobicaTestApp.shared.commonTest.iml" filepath="$PROJECT_DIR$/.idea/modules/shared/My Projects.MobicaTestApp.shared.commonTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/shared/My Projects.MobicaTestApp.shared.iosArm64Main.iml" filepath="$PROJECT_DIR$/.idea/modules/shared/My Projects.MobicaTestApp.shared.iosArm64Main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/shared/My Projects.MobicaTestApp.shared.iosArm64Test.iml" filepath="$PROJECT_DIR$/.idea/modules/shared/My Projects.MobicaTestApp.shared.iosArm64Test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/shared/My Projects.MobicaTestApp.shared.iosX64Main.iml" filepath="$PROJECT_DIR$/.idea/modules/shared/My Projects.MobicaTestApp.shared.iosX64Main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/shared/My Projects.MobicaTestApp.shared.iosX64Test.iml" filepath="$PROJECT_DIR$/.idea/modules/shared/My Projects.MobicaTestApp.shared.iosX64Test.iml" />
+    </modules>
+  </component>
+</project>

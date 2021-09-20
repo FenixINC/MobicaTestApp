@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: io.ktor:ktor-client-logging:commonMain:1.5.4" type="kotlin.common">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/.gradle/kotlin/sourceSetMetadata/shared.MobicaTestApp/commonMain/implementation/io.ktor-ktor-client-logging/io.ktor-ktor-client-logging-commonMain.klib!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.ktor/ktor-client-logging/1.5.4/766966cbd7273617edbab6a73923b3be81e8a9db/ktor-client-logging-1.5.4-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

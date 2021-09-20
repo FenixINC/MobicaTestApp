@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: org.jetbrains.kotlinx:atomicfu:nativeMain:0.16.1" type="kotlin.native">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/.gradle/kotlin/sourceSetMetadata/shared.MobicaTestApp/iosMain/implementation/org.jetbrains.kotlinx-atomicfu/org.jetbrains.kotlinx-atomicfu-nativeMain.klib!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlinx/atomicfu/0.16.1/7e1125cf7487b87980947ec7f0c5962ddb2472d2/atomicfu-0.16.1-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

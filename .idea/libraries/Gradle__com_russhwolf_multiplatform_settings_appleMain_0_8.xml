@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: com.russhwolf:multiplatform-settings:appleMain:0.8" type="kotlin.native">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/.gradle/kotlin/sourceSetMetadata/shared.MobicaTestApp/iosMain/implementation/com.russhwolf-multiplatform-settings/com.russhwolf-multiplatform-settings-appleMain.klib!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.russhwolf/multiplatform-settings/0.8/a407863b47f419129aadf0f22e6baacf30fc232a/multiplatform-settings-0.8-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

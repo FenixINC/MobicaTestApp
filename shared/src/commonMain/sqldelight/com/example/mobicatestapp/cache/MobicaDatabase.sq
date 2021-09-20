@@ -1,0 +1,28 @@
+import com.example.mobicatestapp.database.entity.AttributeEntity;
+import com.example.mobicatestapp.database.entity.DescriptionEntity;
+import com.example.mobicatestapp.database.entity.ImageEntity;
+import com.example.mobicatestapp.database.entity.TitleEntity;
+
+CREATE TABLE CardEntity (
+    id INTEGER NOT NULL PRIMARY KEY AUTOINCREMENT,
+    cardType TEXT NOT NULL,
+    value TEXT NOT NULL,
+    attributeEntity TEXT AS AttributeEntity NOT NULL,
+    titleEntity TEXT AS TitleEntity NOT NULL,
+    descriptionEntity TEXT AS DescriptionEntity NOT NULL,
+    imageEntity TEXT AS ImageEntity NOT NULL
+);
+
+
+insertCard:
+INSERT OR REPLACE INTO CardEntity(cardType, value, attributeEntity, titleEntity, descriptionEntity, imageEntity)
+VALUES(?, ?, ?, ?, ?, ?);
+
+getAllCards:
+SELECT * FROM CardEntity;
+
+getCardDetailsById:
+SELECT * FROM CardEntity WHERE id = ?;
+
+deleteAllCards:
+DELETE FROM CardEntity;

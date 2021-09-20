@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: co.touchlab:sqliter-driver-iosarm64:klib:1.0.1" type="kotlin.native">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/co.touchlab/sqliter-driver-iosarm64/1.0.1/654bee336b2a694ed0ccb1913e06750fa90963de/sqliter-driver.klib!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/co.touchlab/sqliter-driver-iosarm64/1.0.1/98bd6e43a17331f8c1c6ed905c276bddb7463780/sqliter-driver-iosarm64-1.0.1-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

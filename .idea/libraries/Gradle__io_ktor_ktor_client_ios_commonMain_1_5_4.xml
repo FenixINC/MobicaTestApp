@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: io.ktor:ktor-client-ios:commonMain:1.5.4">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/.gradle/kotlin/sourceSetMetadata/shared.MobicaTestApp/iosMain/implementation/io.ktor-ktor-client-ios/io.ktor-ktor-client-ios-commonMain.klib!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.ktor/ktor-client-ios/1.5.4/71266d7f03c4734de054940d5cea80772afac714/ktor-client-ios-1.5.4-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

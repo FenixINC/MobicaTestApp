@@ -1,0 +1,15 @@
+<component name="libraryTable">
+  <library name="Gradle: com.squareup.sqldelight:android-driver:1.5.0@aar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-3/b1b0c62e484032cd1ad875493f91aa50/transformed/android-driver-1.5.0/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/b1b0c62e484032cd1ad875493f91aa50/transformed/android-driver-1.5.0/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/b1b0c62e484032cd1ad875493f91aa50/transformed/android-driver-1.5.0/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.squareup.sqldelight/android-driver/1.5.0/b6c4e3cf25776475c24af53c7cef7504b002ef9e/android-driver-1.5.0-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.squareup.sqldelight/android-driver/1.5.0/d851586b445c27e7478656868682f6780204c6f2/android-driver-1.5.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

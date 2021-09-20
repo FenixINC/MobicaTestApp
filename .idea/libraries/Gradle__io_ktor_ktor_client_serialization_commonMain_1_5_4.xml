@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: io.ktor:ktor-client-serialization:commonMain:1.5.4" type="kotlin.common">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/.gradle/kotlin/sourceSetMetadata/shared.MobicaTestApp/commonMain/implementation/io.ktor-ktor-client-serialization/io.ktor-ktor-client-serialization-commonMain.klib!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.ktor/ktor-client-serialization/1.5.4/113ef13021ce1fde79b64466f48fd4d2a42acccb/ktor-client-serialization-1.5.4-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

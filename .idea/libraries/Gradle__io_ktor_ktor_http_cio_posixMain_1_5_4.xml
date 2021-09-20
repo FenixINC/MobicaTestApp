@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: io.ktor:ktor-http-cio:posixMain:1.5.4" type="kotlin.native">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/.gradle/kotlin/sourceSetMetadata/shared.MobicaTestApp/iosMain/implementation/io.ktor-ktor-http-cio/io.ktor-ktor-http-cio-posixMain.klib!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.ktor/ktor-http-cio/1.5.4/1aa3104ca79ac16dd64d5b3a0e28018d2add24c9/ktor-http-cio-1.5.4-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
